@@ -1,0 +1,13 @@
+.box_one, 
+.box_two {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.box_one {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+.box_two {
+    background-color: yellow;
+}
